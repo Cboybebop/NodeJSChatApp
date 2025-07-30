@@ -1,0 +1,53 @@
+# Runtime files
+
+node\_modules/
+npm-debug.log\*
+yarn-debug.log\*
+yarn-error.log\*
+
+# Environment variables
+
+.env
+.env.local
+.env.\*.local
+
+# Logs
+
+logs/
+\*.log
+
+# Build output
+
+dist/
+build/
+
+# Socket.io history (if persisted)
+
+socket-\*.json
+
+# OS artifacts
+
+.DS\_Store
+Thumbs.db
+
+# IDE / Editor folders
+
+.vscode/
+.idea/
+\*.suo
+*.ntvs*
+\*.vscode-test
+
+# Mac system files
+
+.AppleDouble
+.LSOverride
+
+# Coverage directory
+
+coverage/
+
+# Misc
+
+.cache/
+package-lock.json
